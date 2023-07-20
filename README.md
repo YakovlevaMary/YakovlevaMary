@@ -6,12 +6,12 @@
 - 🎓 I am currently studying automated testing in JAVA at the QA.guru school
 - ⚡ The essence of testing is to believe in the existence of problems and to actively search for them
 - 📫 How to reach me:
-
+     Telegram:
 <a href="https://t.me/MaryPimenova">
-    <img width="6%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
+    <img width="6%" src="media/logotypes/Telegram.svg" alt="Telegram Badge"/>
 </a>
 <a href="mailto:marusim8ha@gmail.com">
-    <img width="6%" src="media/logo/Yandex_Mail_icon.png" alt="Yandex Mail"/>
+    <img width="6%" src="media/logotypes/gmail.svg" alt="gmail"/>
 </a>
 
 Java, Selenium, Selenide, Appium, Rest Assured,  Postman
