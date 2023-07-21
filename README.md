@@ -12,6 +12,14 @@
 |:---------:|:---------:|:---------:|
 | <a href="https://t.me/MaryPimenova"> <img width="20%" src="media/logotypes/Telegram.svg" alt="Telegram Badge"/> </a> | <a href="mailto:marusim8ha@gmail.com"> <img width="20%" src="media/logotypes/gmail.png" alt="gmail"/></a> | <a href="https://github.com/MaryPimenova/"> <img width="20%" src="media/logotypes/GitHub.svg" alt="github"/></a> |
 
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="/images/MGTU.jpg"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Факультет ИУ «Информатика и системы управления»</br>Специальность 24.05.06. Инженер</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/iu1.jpg"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Кафедра ИУ-1 «Системы автоматического управления»</br>Ассистент</td>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования на Java<a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
 
 ## :hammer_and_wrench: Skills 
 | IntelliJ IDEA | Java | Selenide | Selenoid  | Allure Report |  Allure TestOps | Gradle | JUnit5 | GitHub | Jenkins| Rest Assured | Postman | Telegram | Jira | 
