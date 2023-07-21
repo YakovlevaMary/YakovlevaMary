@@ -1,8 +1,8 @@
-<h1 align="center">   Hi there! ⭐ </h1>
+<h1 align="center"> ⭐ Hi there! ⭐ </h1>
 <h2 align="center"> My name is Maria </h2>
 
 
-- 🛰️ I’m currently working as aт engineer of integrated design and testing of spacecraft
+- 🛰️ I’m currently working as an engineer of integrated design and testing of spacecraft
 - 🚀 I am committed to continuous professional development
 - 🎓 I am currently studying automated testing in JAVA at the [QA.GURU](https://qa.guru) school
 - ⚡ The essence of testing is to believe in the existence of problems and to actively search for them
@@ -25,6 +25,6 @@ My graduation work consists of the following projects:
 - [x] [UI](https://github.com/MaryPimenova/VacancyProject)
 
 ### ⚙&nbsp;GitHub Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaryPimenova&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaryPimenova&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaryPimenova&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaryPimenova&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaryPimenova&theme=nightowl)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaryPimenova&theme=nightowl)
