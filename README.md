@@ -12,6 +12,7 @@
 |:---------:|:---------:|:---------:|
 | <a href="https://t.me/MaryPimenova"> <img width="20%" src="media/logotypes/Telegram.svg" alt="Telegram Badge"/> </a> | <a href="mailto:marusim8ha@gmail.com"> <img width="20%" src="media/logotypes/gmail.png" alt="gmail"/></a> | <a href="https://github.com/MaryPimenova/"> <img width="20%" src="media/logotypes/GitHub.svg" alt="github"/></a> |
 
+## 👩‍🎓 Education and career
 <table width="100%" border='1'>
    <tr> 
     <td width="8%" valign="bottom"><img src="media/images/MGTU.png"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Факультет ИУ «Информатика и системы управления»</br>Специальность 24.05.06. Инженер</td>
