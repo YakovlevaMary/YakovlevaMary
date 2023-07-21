@@ -12,13 +12,13 @@
 |:---------:|:---------:|:---------:|
 | <a href="https://t.me/MaryPimenova"> <img width="20%" src="media/logotypes/Telegram.svg" alt="Telegram Badge"/> </a> | <a href="mailto:marusim8ha@gmail.com"> <img width="20%" src="media/logotypes/gmail.png" alt="gmail"/></a> | <a href="https://github.com/MaryPimenova/"> <img width="20%" src="media/logotypes/GitHub.svg" alt="github"/></a> |
 
-<table width="100%" border='0'>
+<table width="100%" border='1'>
    <tr> 
-    <td width="10%" valign="bottom"><img src="media/images/MGTU.png"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Факультет ИУ «Информатика и системы управления»</br>Специальность 24.05.06. Инженер</td></tr>
-    <tr><td width="10%" valign="bottom"><img src="media/images/iu1.jpeg"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Кафедра ИУ-1 «Системы автоматического управления»</br>Ассистент</td>
-    <tr><td width="10%" valign="bottom"><img src="media/images/vniiem.jpg"></td><td valign="middle">АО «Корпорация «ВНИИЭМ»</br>Отдел комплексного проектирования и испытаний</br>Инженер</td>
-    <tr><td width="10%" valign="bottom"><img src="media/images/degree.png"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Повышение квалификации по дополнительной профессиональной программе</br>Системная инженерия в ракетно-космической отрасли</td>
-    <tr><td width="10%" valign="bottom"><img src="media/images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования на Java <a target="_blank" href="https://qa.guru">QA.GURU</a>.</td></tr>
+    <td width="8%" valign="bottom"><img src="media/images/MGTU.png"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Факультет ИУ «Информатика и системы управления»</br>Специальность 24.05.06. Инженер</td>
+    <tr><td width="8%" valign="bottom"><img src="media/images/iu1.jpeg"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Кафедра ИУ-1 «Системы автоматического управления»</br>Ассистент</td>
+    <tr><td width="8%" valign="bottom"><img src="media/images/vniiem.jpg"></td><td valign="middle">АО «Корпорация «ВНИИЭМ»</br>Отдел комплексного проектирования и испытаний</br>Инженер</td>
+    <tr><td width="8%" valign="bottom"><img src="media/images/degree.png"></td><td valign="middle">МГТУ имени Н.Э. Баумана</br>Повышение квалификации по дополнительной профессиональной программе</br>Системная инженерия в ракетно-космической отрасли</td>
+    <tr><td width="10%" valign="bottom"><img src="media/images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования на Java <a target="_blank" href="https://qa.guru">QA.GURU</a>.</td>
    </tr>
   </table>
   </br>
