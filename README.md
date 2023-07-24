@@ -33,9 +33,7 @@
 # :woman_technologist: Graduation work
 My graduation work consists of the following projects:
 - [x] [UI](https://github.com/MaryPimenova/VacancyProject)
-- [x] [REST-API]()
-- [x] [Mobile project]()
-
+- [x] [REST-API](https://github.com/MaryPimenova/rest-api-reqres)
 
 ## UI
 Test automation project for Moscow Thermal Automation Plant (MZTA) company.
@@ -43,6 +41,24 @@ Test automation project for Moscow Thermal Automation Plant (MZTA) company.
 :link: Link to the project: <a target="_blank" href="https://github.com/MaryPimenova/VacancyProject">mzta_company_ui_tests</a>.
 
 :heavy_check_mark: Implemented UI autotests to check elements of the main page of the [Moscow Thermal Automation Plant (MZTA)](https://www.mzta.ru/) company, as well as search for different products and other tests.
+
+:triangular_flag_on_post: List of the main features of the project:
+- [x] Checking the main menu items of the site
+- [x] Checking shopping cart filling
+- [x] Checking downloading files from the web-site
+- [x] Checking searching for the production by its arcticle or name
+- [x] Checking fulfilling of the registration form with valid/invalid data
+- [x] Page Objects implementation
+- [x] Parameterized build in Jenkins
+- [x] Integration with Jira
+- [x] Test plans for automatic and manual testing
+
+## REST API
+Test automation project for Reqres.In service.
+
+:link: Link to the project: <a target="_blank" href="https://github.com/MaryPimenova/rest-api-reqres">reqres_in_api_tests</a>.
+
+:heavy_check_mark: Implemented API autotests to check responses of the [Moscow Thermal Automation Plant (MZTA)](https://www.mzta.ru/) company, as well as search for different products and other tests.
 
 :triangular_flag_on_post: List of the main features of the project:
 - [x] Checking the main menu items of the site
