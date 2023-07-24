@@ -49,27 +49,27 @@ Test automation project for Moscow Thermal Automation Plant (MZTA) company.
 - [x] Checking searching for the production by its arcticle or name
 - [x] Checking fulfilling of the registration form with valid/invalid data
 - [x] Page Objects implementation
-- [x] Parameterized build in Jenkins
+- [x] Parameterized build in Jenkins with Allure report
 - [x] Integration with Jira
-- [x] Test plans for automatic and manual testing
+- [x] Test plans for automatic and manual testing via Allure TestOps
+- [x] Telegram notifications
 
 ## REST API
 Test automation project for Reqres.In service.
 
 :link: Link to the project: <a target="_blank" href="https://github.com/MaryPimenova/rest-api-reqres">reqres_in_api_tests</a>.
 
-:heavy_check_mark: Implemented API autotests to check responses of the [Moscow Thermal Automation Plant (MZTA)](https://www.mzta.ru/) company, as well as search for different products and other tests.
+:heavy_check_mark: Implemented API autotests for [REQRES.IN](https://reqres.in/) service. Project allows sending requests to the API, parsing the responses, and comparing them to the expected results.
 
 :triangular_flag_on_post: List of the main features of the project:
-- [x] Checking the main menu items of the site
-- [x] Checking shopping cart filling
-- [x] Checking downloading files from the web-site
-- [x] Checking searching for the production by its arcticle or name
-- [x] Checking fulfilling of the registration form with valid/invalid data
-- [x] Page Objects implementation
-- [x] Parameterized build in Jenkins
+- [x] Description of the received data model using the [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok) library
+- [x] API testing is done using the [Rest Assured](https://rest-assured.io/) library
+- [x] GET, PUT, PATCH, DELETE, POST options were checked
+- [x] Request log formatting templates were implemented
+- [x] Lambda approach to describe Allure Step
+- [x] Build in Jenkins with Allure report and Allure TestOps
 - [x] Integration with Jira
-- [x] Test plans for automatic and manual testing
+- [x] Telegram notifications
 
 # ⚙️ GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaryPimenova&theme=nightowl)
