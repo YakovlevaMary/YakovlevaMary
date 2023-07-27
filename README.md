@@ -32,7 +32,7 @@
 
 # :woman_technologist: Graduation work
 My graduation work consists of the following projects:
-- [x] [UI](https://github.com/MaryPimenova/VacancyProject)
+- [x] [UI](https://github.com/MaryPimenova/mzta_website_project_UI)
 - [x] [REST-API](https://github.com/MaryPimenova/rest-api-reqres)
 
 ## UI
