@@ -15,7 +15,7 @@
 # 👩‍🎓 Education and career
 <table width="100%" border='1'>
    <tr> 
-    <td width="8%" valign="bottom"><img src="media/images/MGTU.png"></td><td valign="middle">Bauman Moscow State Technical University</br>Faculty of Computer Science, Artificial Intelligence and Control Systems</br>Specialty 24.05.06. <b>Engineer</b></td>
+    <td width="8%" valign="bottom"><img src="media/images/MGTU.png"></td><td valign="middle">Bauman Moscow State Technical University</br>Faculty of Computer Science, Artificial Intelligence and Control Systems</br>Speciality 24.05.06. <b>Engineer</b></td>
     <tr><td width="8%" valign="bottom"><img src="media/images/iu1.jpeg"></td><td valign="middle">Bauman Moscow State Technical University</br>Department of IU-1 «Automatic control systems»</br><b>Department assistant</b></td>
     <tr><td width="8%" valign="bottom"><img src="media/images/vniiem.jpg"></td><td valign="middle">«VNIIEM Corporation» JC</br>Department of Integrated Design and Testing of Spacecraft</br><b>Engineer</b></td>
     <tr><td width="8%" valign="bottom"><img src="media/images/degree.png"></td><td valign="middle">Bauman Moscow State Technical University</br>Passing advanced training in the following additional professional programs:</br>1. Topical issues of professional activity of the scientific and pedagogical worker of the Bauman Moscow State Technical University</br>2. Systems engineering in the rocket and space industry</td>
