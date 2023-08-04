@@ -4,7 +4,7 @@
 
 - 🛰️ I’m currently working as an engineer of integrated design and testing of spacecraft
 - 🚀 I am committed to continuous professional development
-- 🎓 I am currently studying automated testing in JAVA at the [QA.GURU](https://qa.guru) school
+- 🎓 I am studying automated testing in JAVA at the [QA.GURU](https://qa.guru) school
 - ⚡ The essence of testing is to believe in the existence of problems and to actively search for them
 - 📫 How to reach me:
   
