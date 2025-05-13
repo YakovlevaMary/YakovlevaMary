@@ -21,6 +21,7 @@
     <tr><td width="8%" valign="bottom"><img src="media/images/degree.png"></td><td valign="middle">Bauman Moscow State Technical University</br>Passing advanced training in the following additional professional programs:</br>1. Topical issues of professional activity of the scientific and pedagogical worker of the Bauman Moscow State Technical University</br>2. Systems engineering in the rocket and space industry</td>
   <tr><td width="8%" valign="middle"><img src="media/images/stepic.png"></td><td valign="middle">Stepik educational platform</br>1. Special architectures of neural networks (introduction to CNN, RNN, NLP)</br>2. Machine learning</br>3. Artificial neural networks</br>4. Applied color research</td>
     <tr><td width="10%" valign="bottom"><img src="media/images/qa_guru.png"></td><td valign="middle">School of Java test automation engineers <a target="_blank" href="https://qa.guru">QA.GURU</a></td>
+  <tr><td width="8%" valign="middle"><img src="media/images/karpov_courses.png"></td><td valign="middle">KARPOV.COURSES educational platform <a target="_blank" href="https://karpov.courses/">KARPOV.COURSES</a></td>
    </tr>
   </table>
   </br>
